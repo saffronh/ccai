@@ -1,5 +1,5 @@
 # Collective Constitutional AI
-This repo contains files illustrating the data processing for the Collective Constitutional AI project.
+This repo contains files illustrating the data processing for the Collective Constitutional AI project. (TODO: Link blog post here).
 
 The Jupyter notebook attached (`ccai_data_processing.ipynb`) takes
 - [Pol.is](https://pol.is) export files (`comments.csv` and `participants-votes.csv`)
