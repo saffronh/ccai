@@ -2,7 +2,7 @@
 This repo contains files illustrating the data processing for the Collective Constitutional AI project.
 
 ### Links:
-- Collective Intelligence [blog post](https://cip.org/blog/cip-and-anthropic-launch-collective-constitutional-ai)
+- Collective Intelligence Project [blog post](https://cip.org/blog/cip-and-anthropic-launch-collective-constitutional-ai)
 - Anthropic (technical) [blog post](https://www.anthropic.com/index/collective-constitutional-ai-aligning-a-language-model-with-public-input)
 
 The Jupyter notebook attached (`ccai_data_processing.ipynb`) takes
